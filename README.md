@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
+https://github.com/BONGMIN2/food-delivery/issues/2#issue-994509814
 
 # 예제 - 음식배달
 
